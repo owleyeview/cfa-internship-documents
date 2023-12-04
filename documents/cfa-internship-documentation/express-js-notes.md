@@ -1,6 +1,6 @@
 # Express.js
 
-"Express is a minimal and flexible [[Node.js]] web application framework that provides a robust set of features for web and mobile applications."
+"Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications."
 - Without Express, setting up a server in Node.js requires more boilerplate and manual setup.
 
 ## Notes

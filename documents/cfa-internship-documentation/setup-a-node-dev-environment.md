@@ -30,4 +30,5 @@ VSCode tips:
 
 ## Resources
 [Fireship Node video](https://youtu.be/ENrzD9HAZK4) for beginners
+
 [learnyounode CLI challenge program](https://github.com/workshopper/learnyounode)

@@ -16,7 +16,7 @@ Deliverables from an internship as an "Internship Developer" for Computing for A
 
 ## Deliverables
 ### Setup a Node.js Dev Environment
-This process is documented [here](https://github.com/owleyeview/cfa-internship-documents/blob/main/documents/cfa-internship-documentation/setup-a-node-dev-environment.md)
+This process is documented [here](https://github.com/owleyeview/cfa-internship-documents/blob/main/documents/cfa-internship-documentation/setup-a-node-dev-environment.md).
 ### Practice React Todo App
 A todo app built following a tutorial to gain experience with Node and React.
 Github repo [here](https://github.com/owleyeview/practice-react-todos).
@@ -24,7 +24,7 @@ Github repo [here](https://github.com/owleyeview/practice-react-todos).
 A simple chat app. Built from scratch to become more familiar with the WECO tech stack of React, Express, Node and Socket.io.  I created detailed documentation so other interns can build this app as a learning exercise.
 Github repo [here](https://github.com/owleyeview/practice-chat-app).
 ### Internship Documentation
-Please see the [cfa-internship-documentation folder](https://github.com/owleyeview/cfa-internship-documents/tree/main/documents/cfa-internship-documentation)
+Please see the [cfa-internship-documentation folder](https://github.com/owleyeview/cfa-internship-documents/tree/main/documents/cfa-internship-documentation).
 ### WECO Documentation
 I created a document for WECO's wiki that details their app architecture.  This document is intended to orient developers to the WECO code base and make it easier to contribute code to this open-source project.
-Please see the [weco-documentation folder](https://github.com/owleyeview/cfa-internship-documents/tree/main/documents/weco-documentation)
+Please see the [weco-documentation folder](https://github.com/owleyeview/cfa-internship-documents/tree/main/documents/weco-documentation).

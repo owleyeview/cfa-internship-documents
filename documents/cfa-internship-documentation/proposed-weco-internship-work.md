@@ -1,6 +1,6 @@
 # Proposed Framework for Learning Core WECO Features
 
- For each of the core components of [[WECO]], posts, spaces, users, etc...
+ For each of the core components of WECO, posts, spaces, users, etc...
 - How is this implemented on WECO?
 - Pros and cons?
 - Document it to explain it to other interns.

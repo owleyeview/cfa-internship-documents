@@ -1,7 +1,7 @@
 # Node.js
 
 ## Overview
-**Node.js** is a [[JavaScript]] runtime built on Chrome's [[V8 JavaScript engine]], designed for building scalable network applications. It's known for its event-driven, non-blocking I/O model, making it efficient and suitable for diverse backend applications.
+**Node.js** is a JavaScript runtime built on Chrome's V8 JavaScript engine, designed for building scalable network applications. It's known for its event-driven, non-blocking I/O model, making it efficient and suitable for diverse backend applications.
 ### Node.js vs Browser JavaScript
 
 - **No Browser APIs**: Lacks DOM, geolocation, alert, and window object.
@@ -87,7 +87,7 @@ Node.js's non-blocking I/O model is central to its design and performance.
 - Central to Node.js's non-blocking I/O model.
 - Handles asynchronous operations, delegating tasks and managing event callbacks.
 
-### Native [[JavaScript]] Async Features
+### Native JavaScript Async Features
 #### Callbacks
 
 - Traditional method for handling asynchronous operations.
@@ -187,9 +187,8 @@ Cryptographic operators
 - `crypto.createHash(algorithm)`: Creates and returns a hash object, a cryptographic hash with the given algorithm which can be used to generate hash digests.
 - `crypto.randomBytes(size[, callback])`: Generates cryptographically strong pseudo-random data. The `size` argument is a number indicating the number of bytes to generate.
 ## Links
-[Node.js website](https://nodejs.org/en/)
-[Node Version Manager (NVM)](https://github.com/nvm-sh/nvm)
-
-[learnyounode program](https://github.com/workshopper/learnyounode)
-[async-you program](https://github.com/bulkan/async-you) for learning the Node 'async' module
-Intro to Node [[Frontend Masters]] [resources](https://scottmoss.notion.site/scottmoss/Intro-to-Node-js-V3-7c8e4ccaebf94b839f425fff13dcc44c)
+- [Node.js website](https://nodejs.org/en/)
+- [Node Version Manager (NVM)](https://github.com/nvm-sh/nvm)
+- [learnyounode program](https://github.com/workshopper/learnyounode)
+- [async-you program](https://github.com/bulkan/async-you) for learning the Node 'async' module
+- Intro to Node Frontend Masters [resources](https://scottmoss.notion.site/scottmoss/Intro-to-Node-js-V3-7c8e4ccaebf94b839f425fff13dcc44c)

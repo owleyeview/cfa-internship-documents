@@ -26,31 +26,32 @@ Now, a basic flow of using Socket.io would look like:
     
     - **Server-Side**: Listen to events from the client and potentially emit events back.
         ```javascript
-	io.on('connection', (socket) => {
-		socket.on('client-event', (data) => {
-		     // handle data from client   
-		});
-	   socket.emit('server-event', { data: 'Hello from server!' });
-	});
- ```
+        io.on('connection', (socket) => {
+            socket.on('client-event', (data) => {
+                // handle data from client   
+            });
+        socket.emit('server-event', { data: 'Hello from server!' });
+        });
+        ```
 
 	-  **Client-Side**: Similarly, listen to events from the server and emit events to the server.
+
         ```javascript
         const socket = io('http://localhost:3000'); 
         socket.on('server-event', (data) => {
            // handle data from server 
            }); 
         socket.emit('client-event', { data: 'Hello from client!' });
-```
+        ```
          
-1. **Disconnection**:
+3. **Disconnection**:
     
     - On the server, you can handle client disconnections.
         ```javascript
         socket.on('disconnect', () => {
            console.log('A user disconnected');
 	    });
-```
+        ```
 
 To effectively use Socket.io:
 
