@@ -16,6 +16,7 @@ Deliverables from an internship as an "Internship Developer" for Computing for A
 
 ## Deliverables
 ### Setup a Node.js Dev Environment
+This process is documented [here](https://github.com/owleyeview/cfa-internship-documents/blob/main/documents/cfa-internship-documentation/setup-a-node-dev-environment.md)
 ### Practice React Todo App
 A todo app built following a tutorial to gain experience with Node and React.
 Github repo [here](https://github.com/owleyeview/practice-react-todos).
