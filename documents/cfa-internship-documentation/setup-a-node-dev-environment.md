@@ -1,4 +1,4 @@
-# Setup a [[Node.js]] Dev Environment
+# Setup a Node.js Dev Environment
 ## Installation
 ### Browser based installation
 - go to [nodejs.org](https://nodejs.org/en)
@@ -8,7 +8,7 @@
 - installation can be verified in the terminal by typing `node --version` or `node -v`
 ### NVM installation
 - Node can also be installed using Node Version Manager (NVM)
-- this CLI tool allows you to manage multiple active [[Node.js]] versions
+- this CLI tool allows you to manage multiple active Node.js versions
 - install NVM from the GitHub repo [here](https://github.com/nvm-sh/nvm)
 	- Note: Installation edits your terminal configuration file.  To use NVM the terminal must be closed and reloaded.
 - then node can be installed using the `nvm install node` (for the latest version) or `nvm install {desired node version number}` commands
