@@ -1,5 +1,5 @@
 # cfa-internship-documents
-Deliverables from an internship as an "Internship Developer" for Computing for All
+Deliverables from an internship as an "Internship Developer" for Computing For All
 
 ## Overview
 - As an intern at [Computing for All](https://www.computingforall.org/) pioneering their "internship factory" concept, I was responsible for creating detailed documentation of workflows and key technologies that would onboard future interns and provide continuity for contributions to partner open-source projects.  The partner project that I worked with was [WECO](https://github.com/wecollective). 
